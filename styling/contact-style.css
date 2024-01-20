@@ -1,0 +1,9 @@
+body {
+  position: center;
+  font-size: 40pt;
+  font-family: "Source Code Pro", monospace;
+  font-size: 14pt;
+}
+#head {
+  position: center;
+}
